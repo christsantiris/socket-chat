@@ -1,0 +1,24 @@
+{
+  "name": "socket-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctscodes/socket-chat"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "http://warm-ridge-28132.herokuapp.com/"
+  },
+  "homepage": "https://github.com/ctscodes",
+  "dependencies": {
+    "express": "^4.13.3",
+    "moment": "^2.10.6",
+    "socket.io": "^1.3.7"
+  }
+}
